@@ -1,4 +1,6 @@
-# Elevate Labs SQL Developer Internship - Task 4: Aggregate Functions and Grouping
+# Elevate Labs SQL Developer Internship 
+
+## Task 4: Aggregate Functions and Grouping
 
 ## Objective
 [cite_start]The objective of this task was to use aggregate functions and grouping to summarize data[cite: 4]. [cite_start]The outcome is the ability to summarize and analyze tabular data[cite: 12].
